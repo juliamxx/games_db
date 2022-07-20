@@ -4,7 +4,7 @@
 * ellc - Ednelson Luan Lourenço Cavalcanti
 * egb2 - Enzo Gurgel Bissoli
 * hac - Hugo Alves Cardoso
-* jam5 - Júlia Albuerque Machado
+* jam5 - Júlia Albuquerque Machado
 
 ## Projeto: Distribuidora de jogos digitais
 Modelo conceitual, lógico e físico
