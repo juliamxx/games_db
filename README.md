@@ -9,4 +9,5 @@
 ## Projeto: Distribuidora de jogos digitais
 Modelo conceitual, lógico e físico
 
-O DB tem como propósito modelar algumas relações que podem ocorrer numa plataforma de jogos digitais como Steam, GOG, Epic Games etc, exemplos: posse de título digitais por um usurio, coleção de conquistas de um usurio, desenvolvimento de jogos e inserção dos mesmos no marketplace etc.
+  O DB tem como propósito modelar algumas relações que podem ocorrer numa plataforma de jogos digitais como Steam, GOG, Epic Games etc.
+Algunos exemplos: posse de título digitais por um usurio, coleção de conquistas de um usurio, desenvolvimento de jogos e inserção dos mesmos no marketplace etc.
